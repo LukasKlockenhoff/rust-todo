@@ -254,8 +254,7 @@ pub fn help() {
     println!("  rm <id>               Remove a todo");
     println!("  done <id>             Mark a todo as done");
     println!("  undone <id>           Mark a todo as undone");
-    println!("  sort                  Sort todos by id");
+    println!("  sort                  Sort todos by completion");
     println!("  reset                 Reset the todo list");
-    println!("  restore               Restore the todo list");
     println!("  help                  Show this help message");
 }
